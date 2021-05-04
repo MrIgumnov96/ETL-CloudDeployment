@@ -1,5 +1,5 @@
 # ETL-CloudDeployment
-Experimental project to extract csv data, transform it into the suitable format by removing sensitive onformation such as payment details and credit card information. Then load transformmed data onto data warehosue - AWS Redshift.
+Python based project to extract csv data, transform it into the suitable format by removing sensitive onformation such as payment details and credit card information. Then load transformmed data onto data warehosue - AWS Redshift.
 Afterwards from the redshift data is visualised using Grafana to create graphs representing the values' changes over a period of time.
 # License
 Copyright 2021 Dennis Igumnov
